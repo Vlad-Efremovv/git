@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "k:\\git atac\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "K:\\git atac\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "k:\\git atac\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "K:\\git atac\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "k:\\git atac\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "K:\\git atac\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "k:\\git atac\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectPath": "K:\\git atac\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\vlade\\.nuget\\packages\\",
-        "outputPath": "k:\\git atac\\ConsoleApp1\\obj\\",
+        "outputPath": "K:\\git atac\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vlade\\AppData\\Roaming\\NuGet\\NuGet.Config",
