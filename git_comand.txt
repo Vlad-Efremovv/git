@@ -1,0 +1,17 @@
+$ cat .git/config -> Посомтреть гид конфиг
+$ git config --list -> Посомтреть все гид конфиги
+$ git config --global user.email va.efremov@kscgroup.ru -> Установить глобальные настройки 
+$ git config --global user.name E.V.A. -> Установить глобальные настройки 
+$ git config --unset user.name -> Удалить из конфича поле
+$ git config --remove-section user -> Удалить конфиг целиком
+$ git config --global alias.c config -> Созлать алиас для быстрой работы с гит
+
+git status -> состояние git 
+git add . -> обавить все неотслеживаемые файлы
+git commit  -> сохрнаить изменения :q выход из редактора
+git show -> Просмотр коммита
+git reset HEAD <каталог> -> удалит из отследивания 
+git add -f (-forse) <каталог> -> Принудительно добавит файл
+git commit -m "fix: 123" .gitignore -> сохрнаить толко в файле .gitignore
+
+git rm -r <каталог> -> удалит из рабочей директори и из индекса отслеживания
