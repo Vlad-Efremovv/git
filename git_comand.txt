@@ -112,3 +112,16 @@ git cherry-pick <хэш коммита> -> Скопирует изменения
 git rebase master -> переносит основание от которого была создана ветка на последний коммит master
 git rebase --abort -> отмена перебазирования
 git reset --hard <branch> ORIG_HEAD -> вернет до перебазирования
+git rebase -x 'команда запуска проекта' -> Совершит перебазирование проекта и после переноса каждого коммита будет проверять работоспособность команда
+git rebase --onto master feature -> перенести ветку созданную на feature на master
+
+git cherry-pick master~2..master | - > перенесет последние 2 коммита с ветки мастер на текущую ветку 
+git branch -f master~2 					 | - > откатит мастер на 2 коммита назад
+
+git revert HEAD -> отменить последний коммит
+git revert HEAD HEAD~3 -> отменить 3 коммита
+git revert <хэш коммита> -m 1 отменить merge
+
+	в этом случае merge сломается и надо использовать 
+	git revert <хэш коммита> 
+	git merge <branch>
