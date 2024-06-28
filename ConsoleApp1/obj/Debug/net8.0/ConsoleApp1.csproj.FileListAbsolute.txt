@@ -1,0 +1,14 @@
+k:\git atac\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+k:\git atac\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+k:\git atac\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+k:\git atac\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+k:\git atac\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+k:\git atac\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+k:\git atac\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+k:\git atac\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+k:\git atac\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+k:\git atac\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+k:\git atac\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+k:\git atac\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+k:\git atac\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+k:\git atac\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
